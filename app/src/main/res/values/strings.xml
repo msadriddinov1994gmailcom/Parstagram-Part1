@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parstagram Part1</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">xcLXQLnYIvrIMQ8H5HYFOeDfkhN7r7eQ2FIMDu8z</string>
+    <string name="back4app_client_key">LofHfljkPYVXUsb9Ed682ncXWm3sIQSgN2X2Nq7m</string>
+    <string name="todo">TODO</string>
+    <string name="Home">home</string>
+    <string name="Post">post</string>
+    <string name="User">User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_is_happening">What is happening</string>
+    <string name="description">Description</string>
+</resources>
